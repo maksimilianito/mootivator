@@ -91,7 +91,7 @@ pnpm install
 pnpm dev
 
 # Deploy to Cloudflare Workers
-pnpm deploy
+pnpm run deploy
 ```
 
 ## How it Works
