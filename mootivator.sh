@@ -9,16 +9,53 @@ blue="\033[34m"
 green="\033[32m"
 reset="\033[0m"
 
-# Get a random phrase from this file
-phrase=$(grep '^## ' "$0" | sort -R | head -n 1 | sed 's/^## //' | fmt -w "$max_width")
+# Get a random phrase from this file (single line, no wrapping yet)
+raw_phrase=$(grep '^## ' "$0" | sort -R | head -n 1 | sed 's/^## //')
+
+# Normalize Unicode punctuation to ASCII to avoid display width mismatches
+normalized_phrase=$(printf "%s\n" "$raw_phrase" | sed -e 's/[–—]/-/g' -e 's/[“”]/"/g' -e "s/[‘’]/' /g")
+
+# Word-wrap to max_width without trailing spaces using awk (handles long words)
+clean_phrase=$(printf "%s\n" "$normalized_phrase" | awk -v w="$max_width" '
+{
+  line="";
+  for (i = 1; i <= NF; i++) {
+    word = $i;
+    if (length(line) == 0) {
+      if (length(word) <= w) {
+        line = word;
+      } else {
+        while (length(word) > w) {
+          print substr(word, 1, w);
+          word = substr(word, w + 1);
+        }
+        if (length(word) > 0) line = word;
+      }
+    } else if (length(line) + 1 + length(word) <= w) {
+      line = line " " word;
+    } else {
+      print line;
+      if (length(word) <= w) {
+        line = word;
+      } else {
+        while (length(word) > w) {
+          print substr(word, 1, w);
+          word = substr(word, w + 1);
+        }
+        line = word;
+      }
+    }
+  }
+  if (line != "") print line;
+}')
 
 # Pad lines to the longest line length, capped at max_width
 
 # Determine content width as min(longest actual line length, max_width)
-content_width=$(printf "%s\n" "$phrase" | awk -v cap="$max_width" '{ if (length($0)>max) max=length($0) } END { print (max>cap?cap:max) }')
+content_width=$(printf "%s\n" "$clean_phrase" | awk -v cap="$max_width" '{ if (length($0)>max) max=length($0) } END { print (max>cap?cap:max) }')
 
 # Wrap each line with parentheses and pad inside to content_width
-wrapped_phrase=$(printf "%s\n" "$phrase" | awk -v w="$content_width" -v blue="$blue" -v reset="$reset" '{ printf "%s(%s %-*s %s)%s\n", blue, reset, w, $0, blue, reset }')
+wrapped_phrase=$(printf "%s\n" "$clean_phrase" | awk -v w="$content_width" -v blue="$blue" -v reset="$reset" '{ printf "%s(%s %-*s %s)%s\n", blue, reset, w, $0, blue, reset }')
 
 # Build a dashes string matching the inner content width
 dashes=" -$(printf '%*s' "$content_width" '' | tr ' ' '-')- "
