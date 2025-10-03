@@ -31,7 +31,7 @@ You might also want to create a `moo` alias to trigger on demand,
 just add the following to the same rc file.
 
 ```sh
-alias moo=`sh ~/.mootivator.sh`
+alias moo="sh ~/.mootivator.sh"
 ```
 
 3. Restart your terminal or bring a new one.
