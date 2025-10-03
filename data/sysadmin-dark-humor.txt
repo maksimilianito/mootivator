@@ -1,0 +1,97 @@
+The server is down—again. Guess I’ll just down a drink too.
+If it works in production, it’s a miracle, not a feature.
+I don’t fear death, I fear pager duty at 3 a.m.
+Backups? Yeah, we test them—by losing everything first.
+My job is 10% fixing servers, 90% fixing management expectations.
+Downtime builds character, and unemployment.
+I once had a life, then I became a sysadmin.
+High availability is just low expectations with better marketing.
+Redundant systems are great—until they all fail the same way.
+Every ticket is a cry for help, usually mine.
+The cloud isn’t magic—it’s just someone else’s headache.
+Uptime is just the time between apologies.
+On-call rotations are proof that sleep is overrated.
+I don’t need therapy, I just need working servers.
+Automation: the art of making mistakes faster.
+My favorite RAID level is "pray and hope."
+Users ask for five nines of uptime. I give them five minutes of explanation.
+Every SLA is just a creative writing exercise.
+The network is down, but my blood pressure is up.
+I drink coffee until it’s time to drink whiskey.
+Documentation is just a collection of lies we tell new hires.
+My monitoring system has one alert: panic.
+The firewall blocks everything—except stress.
+The only thing high availability guarantees is high anxiety.
+Downtime is just uptime’s evil twin.
+Yes, it’s always DNS.
+Virtualization is just a fancy way to multiply problems.
+Nothing says love like a 2 a.m. phone call about printers.
+Patch Tuesday is followed by Crash Wednesday.
+Every reboot is a leap of faith.
+A server room is just a sauna with blinking lights.
+I thought I signed up for IT, not eternal suffering.
+The cloud promised no downtime. It lied.
+Change management is the process of approving disasters.
+My life is an infinite loop of restarts.
+The servers aren’t haunted, just poorly configured.
+I measure uptime in cups of coffee.
+The only redundancy I have is repeating myself to users.
+I wanted to be a firefighter, so I became a sysadmin.
+Load balancing is just load redistribution of misery.
+My life’s log file is full of errors.
+Users want admin rights. I want different users.
+The system’s secure until someone remembers the password is “password.”
+Patching production is like performing open-heart surgery with a chainsaw.
+I don’t have weekends, I have maintenance windows.
+Every helpdesk ticket is a riddle wrapped in stupidity.
+Cloud costs go up, my sanity goes down.
+Rebooting is my religion, downtime my confession.
+The network is always fine—until I check it.
+Backups are where dreams go to die.
+If it worked yesterday, that’s ancient history.
+I love surprises, said no sysadmin ever.
+Users don’t make mistakes, they make job security.
+The error logs are written in hieroglyphics.
+Downtime is a feature no one asked for.
+Every update fixes one bug and spawns ten.
+The system is only stable when it’s off.
+Users think IT is magic. I think users are cursed.
+Pager duty is a subscription to misery.
+When everything is urgent, nothing is.
+Disaster recovery is just hope with a budget.
+I’m not paranoid, the servers really are plotting against me.
+High load is just low happiness.
+Rebooting fixes everything, except my will to live.
+Every VPN issue is just a test of patience.
+We don’t delete data—we hide it better.
+Users want faster servers. I want slower users.
+The cloud saves money—on paper.
+Yes, I tried turning it off and on again. No, it didn’t fix my life.
+I don’t schedule downtime, it schedules me.
+My dream vacation is a data center with no internet.
+Downtime brings people together—usually against me.
+If it compiles, ship it. If it runs, pray.
+Every incident review ends with “do better next time.”
+The best monitoring tool is sheer panic.
+I work in IT: Infinite Troubles.
+The only thing scalable here is blame.
+Data centers are just expensive ovens.
+When in doubt, blame the intern.
+System updates are like horror sequels: inevitable and worse every time.
+The cloud doesn’t fail—it cascades.
+Every critical ticket is just déjà vu.
+The servers hate me as much as I hate them.
+Documentation ages like milk.
+Downtime reports are works of fiction.
+The Wi-Fi password is “why-me.”
+Every outage is a networking event.
+I don’t count sheep to sleep—I count alerts.
+Resilience is just failure in slow motion.
+Users ask why it’s slow. I ask why they’re fast.
+Security is a checklist of things already breached.
+When the lights blink red, so do my eyes.
+High availability means never being available for dinner.
+Every sysadmin has trust issues.
+The only uptime I get is when I’m lying awake at night.
+Data integrity is just corruption waiting for a chance.
+Being on-call means never being off.

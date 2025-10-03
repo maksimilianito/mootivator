@@ -1,0 +1,103 @@
+May the source be with you.
+I’ll be back… after this build finishes.
+You either die a junior dev, or live long enough to see yourself become a legacy maintainer.
+With great power comes great responsibility… and segfaults.
+One does not simply deploy to production.
+I find your lack of tests disturbing.
+Houston, we have a merge conflict.
+I am Groot();
+Why so synchronous?
+I know Kung Fu… I also know Regex.
+You shall not pass… CI/CD pipeline.
+This is the way—`git pull --rebase`.
+All your base classes are belong to us.
+Live long and `git commit`.
+In the beginning, there was “Hello, World.”
+Winter is coming… update your dependencies.
+To infinity and beyond 32-bit integers.
+Expecto Debug-gonum!
+Keep calm and sudo apt-get install.
+Hasta la Vista, Runtime Error.
+Open the pod bay doors, Jenkins.
+Mr. Anderson, we’ve been expecting your pull request.
+It’s dangerous to go alone! Take this API key.
+Say hello to my little script.
+Not all who wander are lost, except my pointers.
+Yippee-ki-yay, motherfunction.
+The cake is a false positive.
+Debug harder, John McClane.
+Hakuna Matata means no compile errors.
+There is no spoon, only semicolons.
+I am your father() { return this; }
+This is Sparta! — and here is my stack trace.
+Just keep coding, just keep coding.
+It’s over 9000 lines of legacy code!
+To boldly code what no one has coded before.
+The night is dark and full of stack traces.
+ET phone /dev/home.
+Elementary, my dear debugger.
+This is fine();
+Fear is the path to the deprecated side.
+Bazinga();
+I am the one who codes.
+They see me coding, they hating.
+The truth is out there… in the logs.
+Winterfell has better uptime than our servers.
+Hasta la vista, semicolon.
+I drink and I know code.
+It’s morphin’ time—refactor mode!
+Frankly, my dear, I don’t give a Git.
+Keep your friends close and your dependencies closer.
+The first rule of coding club: you do not push to main.
+Show me the source!
+May the forks be ever in your favor.
+Elementary, my dear GitHub.
+A Lannister always commits his changes.
+Infinity bugs and counting.
+The Matrix has you… and your credentials.
+You can’t handle the code!
+Hasta la vista, feature branch.
+Say my name: sudo.
+This is the repo you are looking for.
+You’re a wizard, Coder.
+Beam me up, Stack Trace.
+In West Philadelphia, born and raised, on the playground was where I learned to compile arrays.
+Release early, release often, Mr. Bond.
+Why so many tickets, Jira?
+I feel the need—the need for speed (optimizations).
+I am Iron Code.
+Cersei was right: if you play the Game of Codes, you deploy or you die.
+The hills are alive with the sound of syntax errors.
+Do or do not, there is no try/catch.
+My name is Neo, and I refactor the Matrix.
+Just one more episode… just one more bugfix.
+Luke, use the source.
+I see dead pixels.
+Hasta la vista, NullPointerException.
+We’re gonna need a bigger buffer.
+Houston, rollback is not an option.
+This is the Git Way.
+The Repo awakens.
+I solemnly swear my code is up to no good.
+Bond. Java Bond.
+Hasta la vista, deprecated method.
+One ping only, Captain Compiler.
+Great Scott! We need more bandwidth.
+The repo abides.
+Nobody puts semicolon in the corner.
+Deploy hard with a vengeance.
+Keep coding, and carry on.
+Some men just want to watch the code burn.
+Resistance is futile; you will be unit tested.
+We’re not in localhost anymore.
+Hasta la vista, framework update.
+Frankly, my dear, I prefer Python.
+The Fellowship of the Git.
+Silence of the Lambdas.
+You win or you get a merge conflict.
+So say we all… in production.
+I’m coding here!
+Hasta la vista, recursion.
+Mother of Modules.
+The logs are dark and full of stack traces.
+You can’t stop the signal, Mal.

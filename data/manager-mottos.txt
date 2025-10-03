@@ -1,0 +1,99 @@
+Every meeting could have been an email, and every email could have been ignored.
+Managers love deadlines the way developers love extensions.
+A manager’s favorite IDE is PowerPoint.
+Standups are just sit-downs in disguise.
+The only sprint managers do is to the next meeting.
+Nothing is more permanent than a temporary deadline.
+Managers measure productivity in hours, not output.
+Every project is on track until the manager asks.
+A manager’s bug report: “It doesn’t feel right.”
+Deadlines are just works of science fiction.
+Every meeting generates action items and zero actions.
+A manager’s favorite tool is JIRA, not Java.
+The more managers, the fewer decisions.
+Meetings expand to fill the time available.
+Managers don’t code—they escalate.
+The deadline is just a suggestion with yelling.
+Every meeting is a performance review in disguise.
+A manager’s definition of agile is “do it faster.”
+Managers love reports more than results.
+The only unit test managers care about is headcount.
+Every missed deadline becomes “phase two.”
+Managers think “refactor” means “delay.”
+The more urgent the deadline, the later the approval.
+A project plan is just a to-do list for dreams.
+Every meeting starts late and ends later.
+Managers speak fluent buzzword.
+The best way to double productivity is to add another manager.
+Every deadline is flexible until the manager writes it down.
+Managers don’t move blockers—they create them.
+Every meeting is an escape room without an exit.
+A manager’s version of debugging is forwarding emails.
+Deadlines are immovable, except when they move.
+Managers see progress only in pie charts.
+The most agile thing about a project is the excuses.
+Every standup is a lie detector test.
+Managers don’t solve problems—they spreadsheet them.
+The longer the meeting, the less the outcome.
+Managers call it “scope,” developers call it “chaos.”
+Deadlines are a form of corporate astrology.
+Every “quick chat” costs an hour.
+A manager’s true deliverable is the status report.
+Meetings are the black holes of productivity.
+Managers optimize visibility, not velocity.
+The only bug managers find is “not done yet.”
+Every deadline comes with bonus overtime.
+Managers don’t code, they copy buzzwords.
+A project without managers is self-organizing; with managers, it’s self-destructing.
+Every roadmap is a work of fantasy fiction.
+Managers confuse “done” with “demo.”
+Deadlines are just bugs in calendars.
+Every manager has a Gantt chart they worship.
+Meetings are coffee breaks in disguise.
+Managers manage expectations, not outcomes.
+Every missed deadline spawns a new timeline.
+A manager’s favorite commit is “presentation.pptx.”
+Deadlines move faster than features.
+Every manager has a sixth sense for “almost done.”
+Managers don’t close tickets—they open epics.
+Every meeting has minutes, but loses hours.
+Managers call it “resource allocation,” developers call it “people.”
+Every project is 90% done forever.
+Managers don’t remove scope, they add “stretch goals.”
+The best way to meet a deadline is to redefine “done.”
+Every meeting has a follow-up meeting.
+Managers think productivity is measured in JIRA points.
+Every deadline is a cliff with a party at the bottom.
+Managers love metrics like developers love sarcasm.
+Every standup is just a nap interrupted.
+Managers don’t manage projects—they manage appearances.
+Every missed deadline gets a new buzzword.
+Managers prefer meetings to milestones.
+Every manager has a magic number for “velocity.”
+Deadlines are flexible, except for developers.
+Every meeting creates more work than it solves.
+Managers don’t squash bugs—they schedule them.
+The only sprint managers understand is the marathon.
+Every project is agile until the deadline.
+Managers don’t plan—they guesstimate.
+Every meeting is an exercise in collective amnesia.
+Managers think CI/CD means Calendar Integration.
+Every deadline is an ambush.
+Managers call it synergy, developers call it confusion.
+Every meeting adds latency to progress.
+The only thing managers refactor is the timeline.
+Every deadline is proof of optimism gone wrong.
+Managers prefer kanban boards to keyboards.
+Every meeting needs an agenda and produces none.
+Managers think “pair programming” means “pair of meetings.”
+Every deadline is written in pencil, erased in panic.
+Managers don’t remove blockers—they assign them.
+Every roadmap is written in fantasy, read in horror.
+Managers speak in OKRs, developers speak in WTFs.
+Every deadline is a wish disguised as a plan.
+Managers don’t resolve issues—they escalate them.
+Every meeting is agile theater.
+Managers love burn-down charts, especially when nothing burns down.
+Every deadline is sacred until it’s moved.
+Managers don’t track progress—they track hours.
+Every meeting ends with “let’s circle back.”

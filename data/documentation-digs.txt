@@ -1,0 +1,98 @@
+Documentation is just code’s apology letter.
+The README is always outdated by the second commit.
+Good code is self-documenting, which is why mine is silent.
+Comments explain what the code used to do.
+The best documentation is Stack Overflow.
+Documentation is the art of lying convincingly.
+A TODO comment is a cry for help.
+If it’s documented, it’s already wrong.
+Comments are promises to future archaeologists.
+The README says “simple,” the code says otherwise.
+Documentation is written once, ignored forever.
+Every comment begins with “probably.”
+The most accurate docs are error messages.
+Inline comments are confessions, not explanations.
+The more comments, the less confidence.
+Documentation is where ambition goes to die.
+The code compiles, the docs don’t.
+A long comment is just a bedtime story for bugs.
+Every README is a work of historical fiction.
+Code rots, docs rot faster.
+If you can’t fix it, document it.
+Documentation is proof that copy-paste works in English too.
+A comment that says “hack” is the only honest one.
+READMEs are like diet plans: good intentions, no follow-through.
+Documentation is just developer fan fiction.
+A missing semicolon is clearer than most comments.
+Docs don’t crash, they just mislead.
+Documentation is the first feature to be deprecated.
+The README tells lies politely.
+If code is poetry, comments are bad footnotes.
+Documentation is written for users who don’t exist.
+Auto-generated docs are lorem ipsum with syntax highlighting.
+A comment is where bugs confess their sins.
+Documentation is the duct tape of onboarding.
+The README’s “Getting Started” is your ending.
+Docs are written in haste, read in despair.
+Comments don’t explain code, they explain regrets.
+Documentation is like pizza—everyone wants it, nobody makes it.
+Every line of documentation is technical debt with grammar.
+If you copy-paste the comment, does it count as reuse?
+Documentation is the fiction section of programming.
+A comment that says “fix later” means “never.”
+The README is where dreams of clarity go to die.
+Documentation is just rumors in markdown.
+Code reviews are for code, therapy is for comments.
+A TODO comment is archaeology in progress.
+Docs are always either too much or too little.
+The README’s examples never run.
+Documentation is where truth goes to get formatted.
+A good comment is shorter than the bug it hides.
+Docs are accurate only until deployment.
+Documentation is reverse engineering in prose.
+The best documentation is the commit history.
+A README is a landing page for disappointment.
+If documentation worked, Stack Overflow wouldn’t exist.
+The less you document, the more questions you get.
+Documentation is Schrödinger’s feature: both present and absent.
+A well-documented hack is still a hack.
+The README’s screenshots are always from another version.
+Docs are like tests—they fail silently.
+A comment that says “magic” is the only honest one.
+Documentation is a love letter nobody reads.
+The README’s “Installation” steps are folklore.
+If code is truth, docs are marketing.
+Every comment is a broken promise.
+Documentation is the sequel nobody asked for.
+The README’s badges don’t fix bugs.
+Documentation is just a changelog for lies.
+The best docstring is an exception message.
+Docs don’t age, they fossilize.
+A comment is the last will and testament of a variable.
+Documentation is like a mirror—warped and dusty.
+The README says “one line install,” then continues for three pages.
+Docs are obsolete the moment you type them.
+Documentation is a museum of dead intentions.
+A comment marked “temporary” is eternal.
+Documentation is the longest-running bug in every project.
+The README is a horror story in markdown.
+Docs aren’t written—they’re abandoned.
+A comment that says “don’t delete” is asking for it.
+Documentation is like flossing—everyone says you should, nobody does.
+If it’s commented, it’s complicated.
+Docs lie more politely than code.
+A README without examples is a riddle.
+Documentation is onboarding with extra suffering.
+The longer the doc, the shorter the truth.
+Comments are graffiti on the ruins of code.
+Docs are always “coming soon.”
+The README promises features the code never met.
+Documentation is an open-source fantasy genre.
+A comment is just an alibi for future blame.
+Docs are too long when you write them, too short when you read them.
+Documentation is debugging with full sentences.
+A README is a map drawn by a drunk cartographer.
+Docs are updated only when someone complains.
+Documentation is a diary for abandoned features.
+The README says “works on my machine” between the lines.
+Documentation is the most broken dependency.

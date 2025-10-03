@@ -1,0 +1,96 @@
+JavaScript is the only language where true == "true" is false.
+Undefined is not a bug, it’s a feature.
+In JavaScript, NaN is a number. Don’t ask.
+Async code is just chaos with prettier syntax.
+JavaScript developers don’t die, they just get callback hell.
+I like my promises like my coffee—unhandled.
+JavaScript: the language where 0.1 + 0.2 === 0.30000000000000004.
+Frontend developers spend half their time coding and the other half updating npm.
+The only constant in JavaScript is const that isn’t constant.
+JavaScript developers measure time in framework releases.
+JavaScript is like duct tape—messy, but it works.
+Every JavaScript tutorial starts with "forget what you know."
+Framework fatigue is the cardio of JS devs.
+You don’t need enemies when you have npm audit.
+JavaScript is the art of making the simple complicated.
+Why learn JavaScript? Because misery loves company.
+JavaScript developers are the only ones who can explain why null is an object.
+npm install has ruined more weekends than tequila.
+Every JavaScript project is 90% dependencies, 10% regret.
+In JavaScript, arrays have length but objects have feelings.
+JavaScript is a place where "==" means "close enough."
+If you want to feel alive, try debugging async/await at 3 a.m.
+In JS, everything is true except false—and sometimes that’s true too.
+JavaScript is what happens when you let interns design a language.
+No one understands the event loop, not even the event loop.
+JavaScript developers don’t jog; they run into race conditions.
+npm install left-pad is the butterfly effect of programming.
+JavaScript developers have trust issues because of hoisting.
+The "this" keyword is a riddle wrapped in a mystery inside a function.
+Writing JavaScript is like doing magic—mostly illusions.
+JavaScript frameworks are like dating apps—there’s always a new one.
+In JavaScript, undefined is the new null.
+Every JS error is a rite of passage.
+If you can read async stack traces, you can read hieroglyphics.
+In JavaScript, numbers are optional.
+React developers call it “state,” therapists call it “trauma.”
+JavaScript developers don’t use maps, they just reduce.
+JavaScript is a love letter to chaos theory.
+The only people who understand JavaScript are liars.
+JavaScript arrays start at zero and end in confusion.
+JavaScript conferences are just support groups.
+“Works in Chrome” is the official motto of JS.
+JavaScript is the only language that punishes you for semicolons.
+If JavaScript were a person, it’d be the kid who eats glue.
+No one finishes learning JavaScript, they just give up.
+The JavaScript ecosystem is like IKEA—lots of pieces, no manual.
+Framework wars are JS developers’ cardio.
+JavaScript is a bug breeding ground disguised as a language.
+Every JavaScript repo is a time capsule of bad decisions.
+JavaScript’s type system is like Schrödinger’s cat—it’s both alive and dead.
+When in doubt, just add another dependency.
+JavaScript developers call it “polyfill,” historians call it “band-aid.”
+Nothing ages faster than a JavaScript tutorial.
+JavaScript is the only language where “Hello” - 1 makes sense.
+JS devs spend more time on stackoverflow than in VS Code.
+JavaScript is the only language with more frameworks than users.
+Framework churn is just cardio for JS developers.
+The real full-stack is coffee and npm.
+JavaScript developers debug with console.log like it’s an oracle.
+There’s no crying in baseball, but there’s plenty in JavaScript.
+JavaScript is the clown car of programming languages.
+In JS, everything is async, including your sanity.
+The framework of the week is my new hobby.
+JavaScript: write once, debug everywhere.
+npm start is my daily prayer.
+Hoisting: because who doesn’t like surprise parties?
+JS devs fear nothing except Internet Explorer.
+JavaScript developers can’t commit—they just branch.
+In JS, "===" is just a polite suggestion.
+Promises are just callbacks in disguise.
+JavaScript developers’ favorite animal? The race condition.
+Node.js turns JavaScript into a backend comedy.
+npm install is Russian roulette with your hard drive.
+The JavaScript ecosystem is basically a casino.
+JavaScript is a land where timeouts last forever.
+Every JS developer has PTSD from CORS.
+JavaScript’s motto: “Why not both… and neither?”
+In JS, garbage collection is a lifestyle, not a feature.
+JavaScript makes you humble by breaking in ways you can’t predict.
+JS is the Bermuda Triangle of programming languages.
+JavaScript developers don’t need horror movies, they have prod logs.
+Nothing unites devs like hating JavaScript, and nothing divides them like frameworks.
+The only thing more fragile than JavaScript is my patience.
+JavaScript developers don’t date—they just callback.
+The future of JS is always "in beta."
+In JavaScript, truth is optional.
+No developer has seen the end of npm install.
+JavaScript is the real YOLO language.
+Node_modules is heavier than my student loans.
+Frameworks are just JavaScript’s midlife crises.
+JavaScript devs spend more time fixing packages than writing code.
+In JS, the runtime error is the runtime feature.
+JavaScript developers age in dog years.
+JS developers have Stockholm syndrome with their frameworks.
+In JavaScript, the undefined is always defined.
+JavaScript is the choose-your-own-adventure of programming.

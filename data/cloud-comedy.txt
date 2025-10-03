@@ -1,0 +1,96 @@
+The cloud is just someone else’s computer with better marketing.
+Serverless still has servers—it just means you don’t know their names.
+Containers are Tupperware for code.
+The cloud makes scaling easy and billing terrifying.
+Serverless: because why rent when you can Airbnb?
+Containers: herd them, or they herd you.
+The cloud SLA is basically pinky promise with legalese.
+Orchestration is just babysitting for containers.
+Cloud costs grow faster than your startup.
+Every outage is just “planned maintenance” in disguise.
+In the cloud, horizontal scaling is just spreading panic.
+Containers are like rabbits—they multiply quickly.
+Serverless functions: fast, cheap, and never where you expect them.
+The cloud has infinite servers but none of them are yours.
+A container crash is just a shipwreck at scale.
+Serverless is like takeout—you don’t cook, but you still pay.
+In the cloud, elasticity means your bill stretches too.
+Containers are microservices in little boxes.
+The best cloud strategy is Ctrl+C, Ctrl+V from Stack Overflow.
+Cloud-native means you never touch the ground.
+Serverless devs don’t sleep—they wait for cold starts.
+Containers are shipping delays waiting to happen.
+The cloud makes things simpler until you actually use it.
+Cloud-native is just buzzword bingo for architects.
+Containers don’t solve problems—they isolate them.
+Serverless is the mullet of computing: business in front, chaos in back.
+Cloud outages prove that “high availability” is aspirational.
+Your cloud bill is a horror story told in invoices.
+Containers are a diet plan for bloated apps.
+Serverless: because timeouts are the new exceptions.
+Cloud lock-in is just golden handcuffs.
+Your container registry is just a zoo with no fences.
+The cloud gives you infinite power—until you lose Wi-Fi.
+Kubernetes is Latin for “it’s complicated.”
+Containers don’t fix bad code, they just box it.
+Cloud engineers don’t cry, they autoscale.
+Serverless is pay-per-bug.
+The cloud is flexible—except your budget.
+A container that works locally is lying.
+Multi-cloud means multi-problems.
+Your container orchestration is just cat herding with YAML.
+Serverless is outsourcing your stress to AWS.
+Cloud-native just means you don’t own anything.
+Containers are just VMs with better PR.
+The cloud is scalable, your patience is not.
+Serverless is cheap until it isn’t.
+Containers float until they sink.
+The cloud makes downtime global.
+Autoscaling is just panic with algorithms.
+Cloud-native means never saying “legacy.”
+Containers solve portability by making everything heavier.
+Serverless is fast food computing—quick, cheap, and messy.
+The cloud is where your files go to hide.
+Containers are promises in boxes.
+The only thing serverless saves is vendor profits.
+Cloud computing: uptime by faith, cost by shock.
+Your cloud budget is just an infinite loop.
+Containers are the Russian nesting dolls of code.
+Serverless devs fear one thing: cold starts.
+In the cloud, redundancy means double the outages.
+The container crash diet never works.
+Serverless: pay as you pray.
+Cloud-native means your app is allergic to metal.
+Containers are tiny prisons for your bugs.
+The cloud is resilient, your team is not.
+Serverless is magic until it disappears mid-invocation.
+Multi-cloud is just multi-chaos.
+Containers float best when tested.
+Your cloud bill should come with a defibrillator.
+Serverless is “set it and forget it” until it forgets you.
+Cloud-native is just marketing for stateless.
+Containers don’t reduce bugs—they just distribute them.
+The cloud democratizes computing and monopolizes billing.
+Autoscaling is chaos on autopilot.
+Your container orchestration is just YAML cosplay.
+Serverless: infinite scale, finite patience.
+Cloud-native means your app lives in someone else’s closet.
+Containers isolate your code from happiness.
+The cloud scales apps and stress equally.
+Serverless is cheap like fast food—until you supersize it.
+A container is only portable until you deploy it.
+Cloud outages are the new snow days.
+Kubernetes is DevOps Dungeons & Dragons.
+Containers keep your app in shape, spherical shape.
+Serverless means you trade uptime for downtime drama.
+The cloud is infinite, but your budget isn’t.
+Containers are neat boxes full of chaos.
+Serverless: deploy once, debug forever.
+Cloud-native means dependency on acronyms.
+Containers: because VM wasn’t buzzwordy enough.
+Your cloud budget isn’t high, it’s highly available.
+Serverless is event-driven, so is my stress.
+Cloud-native means you’re married to YAML.
+Containers are prisons where bugs stage riots.
+The cloud never forgets, but your provider might.
+Serverless isn’t serverless—it’s just responsibility-less.

@@ -1,0 +1,96 @@
+Java is where Hello World needs a business plan.
+Enterprise Java: solving tomorrow’s problems with yesterday’s XML.
+Java developers don’t say hi, they say `public static void main`.
+In Java, verbosity isn’t a bug, it’s a design philosophy.
+Why say it in one line when you can say it in fifty?
+Spring Boot is just Java with a caffeine overdose.
+Java: where everything is either an object or an exception.
+Enterprise meetings last longer than garbage collection.
+Java beans are just objects that wanted a fancy name.
+Every enterprise Java app starts with a factory of factories.
+Java developers don’t write code, they implement interfaces.
+In Java, getters and setters outnumber logic ten to one.
+Enterprise architecture is just buzzwords in UML.
+Java is the land of `null`, where dreams go to die.
+Verbose errors make verbose developers.
+Why fix bugs when you can open a JIRA ticket?
+Java: the only language that requires three classes for a sandwich.
+Spring configuration is a rite of passage.
+In Java, “simple” means 200 lines of XML.
+Garbage collection is the only thing that runs on time.
+Java developers measure time in sprints and stack traces.
+Java: bringing OOP to your boilerplate since 1995.
+NullPointerException is the national animal of Java.
+Every enterprise app is just a CRUD app in a suit.
+Java developers don’t optimize, they abstract.
+In Java, you don’t write code—you architect solutions.
+Every enterprise Java project is powered by caffeine and meetings.
+Java is a framework for writing factories.
+You know you’re in Java when the imports outnumber the code.
+The real enterprise framework is bureaucracy.
+In Java, every problem has a design pattern attached.
+Java developers don’t dream—they UML.
+Checked exceptions are just Java’s way of nagging you.
+If it’s not verbose, it’s not Java.
+Enterprise Java projects never die, they just get migrated.
+Java developers fear one thing: upgrading versions.
+Spring Boot makes apps start faster but not developers.
+In Java, even your hello world needs a classpath issue.
+Every enterprise Java app comes with a 100MB WAR file.
+Java developers measure productivity in log statements.
+Null safety is just wishful thinking in Java.
+Java isn’t slow—it just respects ceremony.
+Abstraction in Java is like nesting dolls: endless.
+A Java interface is just a promise you’ll break later.
+In Java, static means nothing is static.
+Verbose code, verbose meetings.
+Enterprise Java developers spend more time in meetings than in IDEs.
+In Java, dependency injection is a religion.
+Boilerplate code keeps Java developers warm at night.
+If you like repetition, you’ll love Java.
+Enterprise architecture diagrams are modern art.
+Java: where strings are immutable and projects are immovable.
+Java developers write getters in their sleep.
+Checked exceptions: because your life wasn’t stressful enough.
+In Java, code generation is a survival strategy.
+Every enterprise app has at least three service layers.
+Java developers don’t debug, they log.
+Enterprise code is just Java in a suit.
+Java is the art of turning five lines into fifty.
+Java developers never retire—they just maintain legacy apps.
+The best Java IDE is coffee.
+Java code compiles; your patience doesn’t.
+Enterprise Java projects are like black holes: they consume everything.
+Java developers don’t say “hi,” they instantiate greetings.
+In Java, inheritance is a way of life.
+The cure for boredom is writing another factory class.
+Java is verbose so managers can read it too.
+Spring Boot hides complexity with more complexity.
+Enterprise devs don’t refactor—they deprecate.
+Java errors are like novels: long, dramatic, and confusing.
+Java developers fear `ClassNotFoundException` more than death.
+Java: when you need a singleton for your single thought.
+Enterprise Java code is immortal—it just keeps running.
+Java developers don’t use shortcuts—they abstract them.
+In Java, annotations are stickers on your problems.
+Verbose logs, verbose lives.
+Java: because typing more means earning more.
+Enterprise Java teams are powered by JIRA tickets.
+Java developers call it “robust,” others call it “bloated.”
+The JVM is the beating heart of enterprise boredom.
+Java developers debug by scrolling through endless logs.
+In Java, everything is public until it’s deprecated.
+Enterprise Java is just design patterns in a trench coat.
+Java developers don’t quit—they migrate to Kotlin.
+The stack trace is the Java developer’s novel.
+Java is ceremony with a compiler.
+Enterprise apps are just CRUD apps in disguise.
+In Java, encapsulation means hiding everything in XML.
+Verbose is better than concise, said no one but Java.
+Java developers worship at the altar of boilerplate.
+Spring Boot makes everything easy, except understanding.
+Enterprise Java is powered by caffeine and consultants.
+Java developers fear `NullPointerException` like knights feared dragons.
+Verbose code, verbose culture.
+Java is where “Hello World” is an enterprise.
+The only thing bigger than a Java app is the meeting about it.

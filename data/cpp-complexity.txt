@@ -1,0 +1,98 @@
+C++ is a language where “Hello World” requires a legal disclaimer.
+Templates are friendship, but also war.
+Undefined behavior is the dark magic that keeps C++ alive.
+In C++, every solution breeds another specialization.
+C++ is like an onion—layers of tears.
+RAII: because someone has to clean up the mess.
+In C++, even your segfault has segfaults.
+The STL is infinite; your understanding is not.
+A pointer is a gift, and also a curse.
+C++ is where compilation errors are longer than your thesis.
+A C++ template error is just a modern epic poem.
+C++: the language that never forgets… except at runtime.
+Every C++ bug is undefined behavior in disguise.
+If JavaScript is chaos, C++ is weaponized chaos.
+C++ programmers don’t cry, they core dump.
+Multiple inheritance: the spaghetti junction of OOP.
+Virtual functions are ghosts haunting your vtables.
+C++ is the art of turning hardware into footguns.
+Memory leaks are the C++ version of nostalgia.
+C++ compilation times measure geological eras.
+The standard is always late, and always thicker.
+C++ is proof that complexity can be standardized.
+Smart pointers are smarter than you.
+A C++ segfault is a rite of passage.
+C++: where backwards compatibility means eternal suffering.
+Template metaprogramming is Turing-complete masochism.
+Every undefined behavior is Schrödinger’s bug.
+C++98, C++11, C++14, C++17, C++20… the infinity saga.
+The compiler error is longer than the source code.
+C++ is a write-only language with occasional reads.
+Const correctness is the yoga of C++.
+C++ programmers measure time in linker errors.
+Inheritance in C++ is a family drama.
+In C++, one semicolon can summon demons.
+You don’t debug C++; you negotiate with it.
+Every pointer is a lottery ticket to disaster.
+C++ is C with classes and trauma.
+Undefined behavior: the ghost in the machine.
+C++ templates are black holes for compilation time.
+C++ code is portable, in the same way that volcanoes are portable.
+The STL is your best friend and worst enemy.
+C++ is the only language where you fear the optimizer.
+Multiple inheritance is just medieval politics.
+C++ developers don’t sleep; they await compilation.
+Every template error is a love letter from your compiler.
+Undefined behavior is a feature, not a bug.
+C++ is a puzzle where the pieces change shape.
+The standard library has everything, except clarity.
+C++ exceptions are more surprising than the code itself.
+Every reference is a pointer with delusions of grandeur.
+C++ programmers don’t age—they just deprecate.
+Linker errors are C++’s form of passive aggression.
+Template metaprogramming: where your brain segfaults first.
+In C++, “simple” is undefined.
+Memory safety is optional DLC.
+C++ is like algebra but with landmines.
+Your code compiles? Great. Does it run? Another question.
+C++ inheritance is the spaghetti of object orientation.
+Virtual destructors: because surprises are rarely pleasant.
+C++ debugging is archaeology with explosives.
+In C++, const means “maybe.”
+Undefined behavior is the only thing well-defined.
+Every dangling pointer is a ghost story.
+C++11 brought lambdas; it didn’t bring peace.
+You don’t write C++; you endure it.
+C++ templates: recursion but angrier.
+If it compiles on the first try, check your build system.
+C++ exceptions: because crashing wasn’t confusing enough.
+In C++, operator overloading means redefining math itself.
+The compiler is your enemy, the linker your nemesis.
+Undefined behavior: the silent killer.
+C++ is a forest of curly braces.
+One does not simply learn all of C++.
+C++ code runs everywhere, badly.
+Your debugger will betray you in C++.
+Multiple inheritance: choose your own disaster.
+C++ errors are measured in screenfuls.
+Every pointer is a loaded gun.
+The only thing worse than C++ code is old C++ code.
+In C++, “safe” is undefined.
+C++ developers are multilingual: they speak compiler errors.
+Undefined behavior is the soul of C++.
+A C++ reference is a polite pointer.
+The C++ standard is a horror anthology.
+You don’t test C++; you pray.
+Every memory leak is a fountain of regret.
+C++ compiles to binary and tears.
+Templates are generics on steroids and caffeine.
+C++: because one level of indirection isn’t enough.
+Every C++ project eventually rewrites std::vector.
+Segfaults are how C++ says hello.
+Multiple inheritance is just unresolved trauma.
+C++ debugging is whack-a-mole with grenades.
+The STL giveth, and the STL taketh away.
+C++ programmers write code today and understand it never.
+Undefined behavior: because predictability is boring.
+C++ is the most modern ancient language.
+Every line of C++ is a leap of faith.

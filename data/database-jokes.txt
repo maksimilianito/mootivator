@@ -1,0 +1,97 @@
+I have a SQL query for you, but it might take a while to join.
+A DBA walks into a bar, and they immediately normalize the tables.
+NoSQL means “Not Only SQL,” but mostly it means “still eventually consistent.”
+I SELECT jokes FROM brain WHERE mood = 'Friday'.
+Indexes are like cheat codes for databases.
+My love life is like a database—lots of relations, no constraints.
+SQL developers have trust issues: they always need constraints.
+Schema changes are the horoscopes of DBAs—always terrifying.
+Replication is just databases gossiping.
+A database without indexes is just a filing cabinet on fire.
+Joins are like relationships—some are inner, some are outer, most are complicated.
+Foreign keys: because boundaries matter.
+NoSQL developers don’t believe in relationships.
+SQL queries are like magic spells—you either get gold or an error.
+A deadlock is just databases giving each other the silent treatment.
+SELECT * is the fast food of queries—easy but bad for you.
+A DBA’s favorite pickup line: “Wanna see my schema?”
+Triggers are pranks you set on your future self.
+SQL errors are the database’s way of laughing at you.
+Indexes: because searching everything is overrated.
+MySQL and Postgres walk into a bar… and argue forever.
+Database migrations are just adult Jenga.
+An uncommitted transaction is just a broken promise.
+NULL is SQL’s way of saying “I don’t know either.”
+Sharding is just databases saying “we were on a break!”
+Stored procedures: where performance and maintainability go to fight.
+SQL joins are like friendships—you need common keys.
+A DBA’s nightmare is “DROP DATABASE;”.
+Denormalization: the art of getting lazy with style.
+Transactions: because sometimes you need a safety net.
+Indexes make queries fast and inserts slow—pick your poison.
+Your query is only as good as your WHERE clause.
+NoSQL is just chaos with a query language.
+A database without backups is just temporary storage.
+Optimistic locking is faith-based programming.
+Cassandra is like an oracle that sometimes forgets.
+Every database conference ends in a consistency vs availability fight.
+Schema design is just data therapy.
+Database jokes are rarely consistent, but eventually funny.
+Every DBA has PTSD from “just add a column.”
+Joins are like hugs—they bring rows together.
+Without ACID, your database is just soup.
+A query without a limit is a cry for help.
+Partitioning: cutting data like a birthday cake, without the joy.
+SQL injection is proof users are creative.
+In databases, everything is either fast or consistent—never both.
+DBAs don’t sleep, they just monitor replication lag.
+Normalization is like cleaning your room—necessary, but exhausting.
+A clustered index is just a table with a fancy hat.
+Deadlocks are arguments with no winners.
+Indexes are like friends—you don’t need many, just the right ones.
+Every DBA secretly hates ORMs.
+Joins are easy, until they’re not.
+Your query is only as readable as your aliases.
+NoSQL means reinventing SQL badly.
+A database without logs is amnesia by design.
+SQL loves order, NoSQL loves freedom.
+Stored procedures are spaghetti with extra sauce.
+Every DBA has typed “DROP” with trembling hands.
+Slow queries teach patience, or rage.
+SELECT * is the universal beginner’s sin.
+Every DBA has a horror story about migrations.
+Replication lag is just procrastination at scale.
+Every SQL query is innocent until executed.
+The query planner is smarter than you, but not always right.
+Views are just filters wearing suits.
+The schema is the database’s diary.
+SQL developers think in sets, not rows.
+Indexes are expensive friends.
+Every database is eventually legacy.
+The best query is the one you don’t have to run.
+A DBA’s motto: backup early, backup often.
+SQL is math pretending to be English.
+Every query hides a cartesian product waiting to happen.
+CouchDB: because even databases deserve naps.
+A database transaction is just trust issues formalized.
+The fastest query is the one that never runs.
+A schema without constraints is just wishful thinking.
+Every DBA secretly hoards monitoring dashboards.
+Foreign keys are long-distance relationships.
+SQL is declarative; your confusion is imperative.
+Database performance tuning is digital witchcraft.
+Sharding is horizontal heartbreak.
+Indexes are like spices—too few is bland, too many ruins the dish.
+Queries age like bread, not wine.
+Every DBA has a favorite index type.
+Transactions are database vows: commit or rollback.
+SQL: the only place NULL = NULL is false.
+Queries are like poetry—sometimes beautiful, often confusing.
+The optimizer is just a moody genius.
+MongoDB is schema-less, like jazz.
+Every database admin has DROP DATABASE trauma.
+Deadlocks are just databases playing chicken.
+A slow query teaches humility.
+Every ORM is a bad translator.
+Your schema tells the truth about your business.
+The DBA always wins arguments—eventually.

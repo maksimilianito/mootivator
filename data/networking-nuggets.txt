@@ -1,0 +1,96 @@
+Never trust DNS—it’s always the root of the problem.
+Packets never get lost, they just take scenic routes.
+Latency is just procrastination measured in milliseconds.
+The internet is held together by duct tape and BGP.
+Wi-Fi signals drop faster than my motivation on Mondays.
+Traceroute is just hide-and-seek for packets.
+The cloud is just someone else’s network.
+Network engineers measure time in pings, not seconds.
+TCP is polite; UDP just blurts things out.
+Every outage starts with “it must be DNS.”
+Routers don’t lie, but they do mislead.
+Packets are introverts—they hate collisions.
+A firewall is just a bouncer with bad manners.
+Bandwidth is wasted on cat videos, and that’s fine.
+Wi-Fi passwords are modern riddles.
+A VPN is just a tunnel for paranoia.
+Ethernet: because sometimes wireless isn’t worth it.
+Networks are like relationships—too much congestion kills them.
+DHCP is the lottery of IP addresses.
+The network is fine, it’s always fine.
+Ping is a love letter to a distant server.
+Jitter is the coffee jitters of the internet.
+Switches are just traffic cops with no whistles.
+Packets don’t get dropped, they just ghost you.
+Latency is patience training for gamers.
+QoS is just favoritism for packets.
+A proxy is a middleman who can’t keep secrets.
+Routers are gossipers—they know everyone’s business.
+The internet runs on trust and lies.
+Packets don’t die, they timeout.
+A NAT is just an identity crisis for IPs.
+BGP is the gentlemen’s agreement holding the world together.
+Firewalls are like in-laws—hard to bypass.
+A packet sniffer is just digital eavesdropping.
+The first rule of networking: blame DNS.
+Every packet has a story; most end in timeouts.
+Load balancers are referees in the packet Olympics.
+VPNs: because privacy is now a subscription service.
+The internet is a web of routers pretending to know the way.
+Cable management is the lost art of networking.
+Packets don’t care about borders, only hops.
+Latency is distance telling you to wait.
+Wi-Fi is strongest where you don’t need it.
+Switch loops are the merry-go-rounds of networks.
+Packet loss: nature’s way of keeping gamers humble.
+DNS is like a phonebook written in crayon.
+Every subnet mask hides a personality.
+A DDoS is just popularity taken too far.
+Routing tables are bedtime stories for packets.
+The network is innocent until proven guilty.
+Every port is an invitation or a trap.
+Packets don’t like drama—they prefer order.
+Redundancy is the art of expecting failure.
+The ping never lies, but it rarely comforts.
+Traceroute reveals the ghosts in the machine.
+Networks are invisible until they’re broken.
+Ethernet cables are friendship bracelets for machines.
+MTU is just packet dieting.
+Packets are loyal—they always try to find a way home.
+The Wi-Fi bar is the modern campfire.
+Latency: the difference between victory and defeat.
+VLANs are just imaginary borders for real packets.
+A VPN hides your identity but not your procrastination.
+Network admins don’t panic, they just reroute.
+Packets whisper to switches, shout at routers.
+Bandwidth is never enough, no matter how big.
+A firewall is a lock on a door made of glass.
+Packet storms are just tantrums at scale.
+The default gateway is everyone’s parent.
+Routers and cats both like to sit in the middle.
+A timeout is a packet’s version of heartbreak.
+Wireshark is therapy for network engineers.
+Every cable is either too short or too long.
+The internet is just a giant game of telephone.
+Packet fragmentation is identity theft for data.
+Every packet is born free, but bound by headers.
+DNS: where typos become disasters.
+Latency is the price of distance.
+The subnet you forget will be the one that matters.
+Packets can’t lie, but NAT can.
+Routing loops are packets chasing their tails.
+Switches don’t judge, they just forward.
+The Wi-Fi always works during speed tests, never during meetings.
+Packets are the true currency of the internet.
+A static IP is just a stubborn address.
+The best firewall is unplugging the cable.
+Packets don’t gossip—they multicast.
+Every protocol is just an agreement to disagree.
+The internet survives because packets are persistent.
+Cable spaghetti is the meal of every data center.
+Packets never sleep, they just idle.
+DNS is the magician turning names into numbers.
+Latency is the toll booth of the network.
+Packets don’t fear distance, only bottlenecks.
+Every port open is a door unlocked.
+The internet doesn’t run on electricity—it runs on trust.

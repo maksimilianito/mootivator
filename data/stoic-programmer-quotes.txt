@@ -1,0 +1,98 @@
+The code does not obey your will; it obeys only its logic.
+A bug is not an enemy, but a teacher showing you your assumptions.
+Do not curse the compiler; learn from its strict honesty.
+You cannot rush elegance, for elegance is the reward of patience.
+The framework will change, but discipline remains eternal.
+Errors are inevitable; despair is optional.
+Every crash is only the system reminding you of impermanence.
+Control what you can—your tests—not what you cannot—the production server.
+Legacy code is not a burden, but a mirror of past decisions.
+The pull request is long, but virtue is longer.
+Your code will one day be deleted, so write with humility.
+The user is unpredictable; only your clarity can endure.
+Every bug fixed today will be replaced by one tomorrow—accept this cycle.
+The wise coder does not seek praise, only correctness.
+Focus not on the size of the code, but on the clarity of thought.
+A program that runs today may fail tomorrow—be prepared.
+The true debugger resides in the mind.
+Do not blame the tools; the craftsman is responsible for the craft.
+Tests are not chains; they are shields for the future.
+The project deadline is external; your effort is internal.
+Refactor as if you will live forever, commit as if you will die tomorrow.
+Every dependency is a chain; add them carefully.
+What is a merge conflict but a test of patience?
+Good architecture is invisible, like virtue itself.
+Do not grow angry at bugs; they were there before you looked.
+The log file does not lie, even if it confuses.
+Your skill is not proven by features built, but by bugs endured.
+Suffering is multiplied when you resist the error message.
+Time wasted cursing could be time spent fixing.
+A programmer owns only the present commit.
+The best optimization is restraint.
+The compiler humbles all developers equally.
+If your code survives refactoring, it is truly strong.
+Do not despise repetition; loops are the teachers of discipline.
+The more you cling to perfection, the more errors will mock you.
+Every abstraction is a debt to the future.
+When code frustrates you, step away, for clarity comes with stillness.
+Do not write code to impress; write code to endure.
+You cannot escape bugs, only learn to live with fewer.
+The true open source is wisdom shared freely.
+Frameworks are borrowed, but logic is eternal.
+Seek not the approval of peers, but the correctness of functions.
+The backlog is infinite; your time is finite.
+Each commit is a step; the repository is the journey.
+Do not confuse cleverness with clarity.
+In software as in life, less is often more.
+Every version is temporary; do not grow attached.
+A rushed release is a permanent regret.
+What breaks today may save tomorrow.
+Coding is long, but your patience must be longer.
+The system does not punish; it only reveals.
+The terminal is indifferent to your feelings.
+An unused feature is no feature at all.
+Accept slow builds; they remind you to breathe.
+Errors are teachers dressed as enemies.
+Discipline in indentation leads to discipline in thought.
+When your mind is scattered, your variables will follow.
+You are not judged by the bugs you find, but by how you face them.
+Every tool is both a crutch and a sword.
+The wise programmer fears global state.
+Tests do not eliminate errors, they eliminate illusions.
+Be mindful of naming, for words shape understanding.
+The true developer does not argue with code style, only follows it calmly.
+Complexity is the enemy of peace.
+Do not grieve for deleted code; its purpose has ended.
+The code you inherit is the code you deserve.
+Every refactor is a meditation on impermanence.
+The backlog will outlive you—accept it.
+Do not grow proud of clever hacks; pride invites bugs.
+A program that cannot be explained is no better than magic.
+The simplest design is the hardest to achieve.
+Code reviews are mirrors; look into them without vanity.
+The IDE is a tool, not a master.
+Do not attach your self-worth to the success of a build.
+What you do not test, you do not control.
+Programming is not conquest but cultivation.
+The calm coder solves faster than the frantic one.
+If the solution feels forced, it is not yet a solution.
+No amount of frameworks will save you from bad logic.
+The wise developer embraces constraints as freedom.
+The system is not broken; your understanding is.
+Do not seek shortcuts, for they lengthen the journey.
+When you fear bugs less, they reveal themselves more quickly.
+Every commit message should be written for your future self.
+Tools change, principles endure.
+Do not demand certainty where only probability exists.
+The calm acceptance of failure breeds resilience.
+Errors are not failures but signals.
+The user will misuse your software—design for that truth.
+Do not measure worth in lines of code, but in clarity of design.
+In programming as in life, detachment is strength.
+The wise coder does not reinvent the wheel—nor worship it.
+Let each bug humble you, but not defeat you.
+Every infinite loop ends with exhaustion.
+Time spent in thought is not wasted.
+Do not strive to write perfect code, but code that is perfectible.
+What matters is not that it compiles, but that it endures.
+You own neither uptime nor downtime—only effort.

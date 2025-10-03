@@ -1,0 +1,170 @@
+[
+	{
+		"slug": "programming-jokes",
+		"prompt": "Generate 100 short, witty jokes about programming, computers, or software engineering. They should be lighthearted, fun, and easy to understand."
+	},
+	{
+		"slug": "motivational-hacker-wisdom",
+		"prompt": "Generate 100 motivational or inspirational phrases for programmers and hackers, mixing wisdom with playful tech metaphors."
+	},
+	{
+		"slug": "sysadmin-dark-humor",
+		"prompt": "Generate 100 sarcastic or dark-humored one-liners about sysadmin life, servers, and on-call misery, in the style of gallows humor."
+	},
+	{
+		"slug": "fortune-cookie-sayings",
+		"prompt": "Generate 100 fortune-cookie style sayings themed around coding, debugging, and software culture, with a mix of optimism and ambiguity."
+	},
+	{
+		"slug": "pop-culture-mashups",
+		"prompt": "Generate 100 short quotes that combine programming with references to movies, books, TV shows, or memes."
+	},
+	{
+		"slug": "coffee-code",
+		"prompt": "Generate 100 witty one-liners about coffee, caffeine, and its connection to programming productivity."
+	},
+	{
+		"slug": "fake-error-messages",
+		"prompt": "Generate 100 funny fake error messages, warnings, or system alerts that sound real but are humorous."
+	},
+	{
+		"slug": "retro-hacker-terminal",
+		"prompt": "Generate 100 phrases that sound like they came from an old-school hacker terminal, cryptic and cool."
+	},
+	{
+		"slug": "stoic-programmer-quotes",
+		"prompt": "Generate 100 stoic-style quotes reimagined for programmers, emphasizing patience, acceptance, and discipline in coding."
+	},
+	{
+		"slug": "tech-puns",
+		"prompt": "Generate 100 one-liner puns that involve programming, the internet, or computer hardware in a humorous way."
+	},
+	{
+		"slug": "hacker-proverbs",
+		"prompt": "Generate 100 short proverbs for hackers and coders, sounding wise and timeless but using tech metaphors."
+	},
+	{
+		"slug": "debugging-mantras",
+		"prompt": "Generate 100 short mantras about debugging and problem-solving, intended to calm and encourage perseverance."
+	},
+	{
+		"slug": "devops-quips",
+		"prompt": "Generate 100 sarcastic or witty sayings from the perspective of a DevOps engineer, referencing CI/CD, servers, and deployments."
+	},
+	{
+		"slug": "zen-of-programming",
+		"prompt": "Generate 100 Zen-like aphorisms about programming, calm, minimal, and paradoxical."
+	},
+	{
+		"slug": "startup-encouragement",
+		"prompt": "Generate 100 motivational sayings for startup coders and small teams, mixing hustle energy with coding references."
+	},
+	{
+		"slug": "programmer-predictions",
+		"prompt": "Generate 100 fortune-cookie style predictions about a programmer’s future career, bugs, and projects."
+	},
+	{
+		"slug": "legendary-bug-stories",
+		"prompt": "Generate 100 mythical-style short tales or sayings about legendary bugs, debugging quests, or coding heroes."
+	},
+	{
+		"slug": "command-line-wisdom",
+		"prompt": "Generate 100 witty sayings that sound like advice from a Unix shell or command-line guru."
+	},
+	{
+		"slug": "open-source-spirit",
+		"prompt": "Generate 100 sayings celebrating open-source culture, collaboration, and sharing."
+	},
+	{
+		"slug": "ai-and-code-futures",
+		"prompt": "Generate 100 witty or thoughtful lines about the relationship between AI, coding, and the future of software."
+	},
+	{
+		"slug": "terminal-life-lessons",
+		"prompt": "Produce 100 life lessons reimagined as if they were terminal commands or shell wisdom."
+	},
+	{
+		"slug": "git-wit",
+		"prompt": "Generate 100 funny one-liners about Git, commits, branches, merges, and version control."
+	},
+	{
+		"slug": "javascript-jabs",
+		"prompt": "Generate 100 jokes or witty lines poking fun at JavaScript quirks, async chaos, and frameworks."
+	},
+	{
+		"slug": "python-snakes",
+		"prompt": "Generate 100 funny or wise one-liners about Python, its simplicity, and its ecosystem."
+	},
+	{
+		"slug": "cpp-complexity",
+		"prompt": "Generate 100 sayings or jokes about C++ complexity, templates, and undefined behavior."
+	},
+	{
+		"slug": "java-wisdom",
+		"prompt": "Generate 100 short sayings or jokes about Java, verbosity, and enterprise culture."
+	},
+	{
+		"slug": "functional-philosophy",
+		"prompt": "Generate 100 aphorisms about functional programming, purity, recursion, and immutability."
+	},
+	{
+		"slug": "regex-riddles",
+		"prompt": "Generate 100 witty lines about regex, its power, and its inscrutable nature."
+	},
+	{
+		"slug": "database-jokes",
+		"prompt": "Generate 100 witty or funny lines about SQL, NoSQL, schemas, and queries."
+	},
+	{
+		"slug": "networking-nuggets",
+		"prompt": "Generate 100 jokes or wise sayings about networks, packets, latency, and DNS."
+	},
+	{
+		"slug": "cloud-comedy",
+		"prompt": "Generate 100 witty lines about cloud computing, containers, and serverless."
+	},
+	{
+		"slug": "security-sayings",
+		"prompt": "Generate 100 one-liners about cybersecurity, hackers, passwords, and exploits."
+	},
+	{
+		"slug": "testing-truths",
+		"prompt": "Generate 100 witty or motivational sayings about unit tests, QA, and coverage."
+	},
+	{
+		"slug": "documentation-digs",
+		"prompt": "Generate 100 sarcastic or funny one-liners about documentation, comments, and READMEs."
+	},
+	{
+		"slug": "manager-mottos",
+		"prompt": "Generate 100 sarcastic or funny sayings about software managers, meetings, and deadlines."
+	},
+	{
+		"slug": "agile-aphorisms",
+		"prompt": "Generate 100 witty or sarcastic one-liners about Agile, sprints, and standups."
+	},
+	{
+		"slug": "legacy-lamentations",
+		"prompt": "Generate 100 short, dramatic or funny sayings about legacy code and technical debt."
+	},
+	{
+		"slug": "compiler-commentary",
+		"prompt": "Generate 100 witty one-liners about compilers, interpreters, and build errors."
+	},
+	{
+		"slug": "algorithm-aphorisms",
+		"prompt": "Generate 100 wise or funny sayings about algorithms, optimization, and complexity."
+	},
+	{
+		"slug": "hardware-humor",
+		"prompt": "Generate 100 witty lines about hardware quirks, CPUs, GPUs, RAM, and peripherals."
+	},
+	{
+		"slug": "ai-philosophy",
+		"prompt": "Generate 100 thoughtful or witty aphorisms about artificial intelligence and its relationship to humanity."
+	},
+	{
+		"slug": "cosmic-code",
+		"prompt": "Generate 100 poetic or cosmic-sounding sayings connecting programming to the universe, stars, and meaning of life."
+	}
+]

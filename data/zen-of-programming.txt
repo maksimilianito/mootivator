@@ -1,0 +1,90 @@
+The fewer lines, the louder the code.
+To name well is to understand.
+Silence is the perfect comment.
+The best abstraction is no abstraction.
+A function ends where clarity begins.
+Debug not the code, debug the mind.
+The compiler is strict, yet always fair.
+In every error, a hidden truth.
+What runs fast may age poorly.
+The empty file holds infinite programs.
+Read the code that writes you.
+Simplicity hides behind complexity, waiting.
+A loop is infinite only in thought.
+The best variable is the one unneeded.
+Do less, and more will compile.
+What you don’t test controls you.
+The perfect design is invisible.
+Code grows where attention flows.
+The shortest path often leads to bugs.
+Every hack is a debt of silence.
+The machine executes; you interpret.
+The problem is not in the code, but in the assumptions.
+An unused import whispers of clutter.
+The true IDE is patience.
+What is global spreads quietly into chaos.
+A broken build teaches humility.
+Every exception is expected by the wise.
+When the code confuses, the bug smiles.
+Indentation is discipline embodied.
+The program does not care for your intent.
+Deleting clarifies more than adding.
+The logs speak when you listen.
+The harder you push, the slower it builds.
+The function you remove is the function you master.
+Complexity is loud; simplicity whispers.
+Tests are the mirrors of code.
+What compiles is not always correct.
+Errors guide, warnings warn, silence deceives.
+Every framework decays.
+Abstractions leak, and in leaking, they teach.
+The code you inherit is the code you deserve.
+Less coupling, more breathing.
+A program is complete when nothing can be removed.
+The machine is dumb; the code is clear.
+The wisest comment is the one unwritten.
+In recursion, the beginning meets the end.
+Fear no bug; fear ignorance.
+Version numbers are illusions of control.
+All code is temporary.
+To write clearly is to think clearly.
+Every loop must end, except the loop of learning.
+Style guides discipline, but wisdom transcends style.
+The keyboard is fast, but thought is faster.
+In refactoring, you find yourself.
+The simplest tool is often the best.
+Error messages are koans in disguise.
+The code is not yours; it belongs to time.
+A module alone is fragile; together, stronger.
+Duplication is louder than silence.
+Every TODO is a burden on tomorrow.
+Good code hums; bad code shouts.
+Whitespace is not empty, it is breath.
+One bug reveals another.
+The more clever, the less clear.
+Delete bravely.
+All systems drift toward entropy.
+Perfect syntax hides imperfect thought.
+Simplicity arrives when nothing more can break.
+The old code still runs.
+Inversion reveals symmetry.
+Every return is also a beginning.
+The best optimization is restraint.
+A bug ignored is a bug multiplied.
+Names outlive their creators.
+The machine is literal; you must be poetic.
+Truth hides in plain text.
+The more you automate, the more you must trust.
+What you log defines what you see.
+Errors are the teachers most honest.
+All frameworks promise eternity, none deliver.
+A blank screen invites courage.
+The future deprecates the present.
+In testing, believe nothing, trust everything.
+Silence is broken by runtime.
+What compiles quickly may run slowly.
+The smallest diff has the largest ripple.
+To reuse code is to reuse mistakes.
+Every abstraction costs attention.
+Merge conflicts are arguments with yourself.
+Simplicity takes longer
