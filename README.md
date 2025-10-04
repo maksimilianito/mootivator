@@ -11,6 +11,53 @@ Mootivator is a fun CLI standalone sh script that returns ASCII art of a cow sha
 - Procrastinating productively
 - Reminding yourself that all bugs are temporary
 
+## Samples
+
+```txt
+ ------------------------------
+( The future of software isn’t )
+( no-code, it’s new-code.      )
+ ------------------------------
+       \
+        \    \__/
+         \   (oO)_________
+          \ (_.._)        )\
+           \_ U  ||---w-||  *
+                _||    _||
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
+
+```txt
+--------------------------------------
+( Why do DevOps teams love containers? )
+( Because they finally found something )
+( that works the same in dev and prod. )
+--------------------------------------
+      \
+       \    \__/
+        \   (oO)_________
+         \ (_.._)        )\
+          \_ U  ||---w-||  *
+               _||    _||
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
+
+```txt
+--------------------------------------
+( QA found a bug in production. The    )
+( developer said, 'It works on my      )
+( machine.' QA shipped the developer's )
+( machine to production.               )
+--------------------------------------
+      \
+       \    \__/
+        \   (oO)_________
+         \ (_.._)        )\
+          \_ U  ||---w-||  *
+               _||    _||
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
+
 ## Installation
 
 1. Download the sh script source to your home folder:
@@ -34,24 +81,7 @@ just add the following to the same rc file.
 alias moo="sh ~/.mootivator.sh"
 ```
 
-3. Restart your terminal or bring a new one.
-
-You'll should see something like something like:
-
-```
- ------------------------------ 
-( The future of software isn’t )
-( no-code, it’s new-code.      )
- ------------------------------
-       \
-        \    \__/
-         \   (oO)_________
-          \ (_.._)        )\
-           \_ U  ||---w-||  *
-                _||    _||
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-```
-
+3. Restart your terminal or bring a new one, and enjoy the humor!
 
 ## Categories
 
@@ -72,7 +102,10 @@ The mootivator draws from **42 categories** of programming culture, including:
 - 🧪 Testing truths
 - 📚 And many more!
 
-All the prases have been generated using ChatGPT 5, around 100 per category, 4200 in total.
+All the prases have been generated using `claude-sonnet-4-5`, around 100 per category, 4939 in total.
+
+The prompt workflow included generating first, then rating, and keeping the best ones.
+Instructions of what makes a good humor has also been added to the context.
 
 ## License
 

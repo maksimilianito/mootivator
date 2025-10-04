@@ -22,18 +22,6 @@ const step: (
 };
 
 async function complete(prompt: string): Promise<string> {
-  // const response = await ollama.chat({
-  //   model: "qwen3-coder:30b",
-  //   messages: [{ role: "user", content: prompt }],
-  //   options: {
-  //     temperature: 0.7,
-  //     top_p: 0.9,
-  //     top_k: 50,
-  //     repeat_penalty: 1.2,
-  //     seed: Math.floor(Math.random() * 1000000),
-  //   },
-  // });
-  // return response.message.content;
   const anthropic = new Anthropic();
 
   const message = await anthropic.messages.create({
