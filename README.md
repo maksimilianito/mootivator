@@ -63,7 +63,7 @@ Mootivator is a fun CLI standalone sh script that returns ASCII art of a cow sha
 1. Download the sh script source to your home folder:
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/tzador/mootivator/refs/heads/main/mootivator.sh -o ~/.mootivator.sh
+curl -fsSL https://github.com/tzador/mootivator/releases/download/v0.0.3/mootivator.sh -o ~/.mootivator.sh
 ```
 
 2. Add the following to your `~/.bashrc` or `~/.zshrc` (or any other)
