@@ -1,10 +1,28 @@
+```
+ ------------------------------
+( I am Mootivator.             )
+( I print geek jokes           )
+( in the terminal shell.       )
+ ------------------------------
+       \
+        \    \__/
+         \   (oO)_________
+          \ (_.._)        )\
+           \_ U  ||---w-||  *
+                _||    _||
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
+
 # 🐮 Mootivator
 
-A shell script that delivers random programming wisdom, jokes, and mantras in the style of the classic Unix `cowsay` command—but with a cow that truly *gets* programmers.
+A shell script that delivers random programming wisdom, jokes, and mantras in
+the style of the classic Unix `cowsay` command—but with a cow that truly _gets_
+programmers.
 
 ## What is this?
 
-Mootivator is a fun CLI standalone sh script that returns ASCII art of a cow sharing tech humor, coding wisdom, or developer-friendly sayings. Perfect for:
+Mootivator is a fun CLI standalone sh script that returns ASCII art of a cow
+sharing tech humor, coding wisdom, or developer-friendly sayings. Perfect for:
 
 - Adding to your `.zshrc` or `.bashrc` for daily terminal inspiration
 - Spicing up your CI/CD pipelines
@@ -13,7 +31,7 @@ Mootivator is a fun CLI standalone sh script that returns ASCII art of a cow sha
 
 ## Samples
 
-```txt
+```
  ------------------------------
 ( The future of software isn’t )
 ( no-code, it’s new-code.      )
@@ -27,7 +45,7 @@ Mootivator is a fun CLI standalone sh script that returns ASCII art of a cow sha
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
 
-```txt
+```
 --------------------------------------
 ( Why do DevOps teams love containers? )
 ( Because they finally found something )
@@ -42,7 +60,7 @@ Mootivator is a fun CLI standalone sh script that returns ASCII art of a cow sha
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
 
-```txt
+```
 --------------------------------------
 ( QA found a bug in production. The    )
 ( developer said, 'It works on my      )
@@ -66,16 +84,16 @@ Mootivator is a fun CLI standalone sh script that returns ASCII art of a cow sha
 curl -fsSL https://github.com/tzador/mootivator/releases/download/v0.0.3/mootivator.sh -o ~/.mootivator.sh
 ```
 
-2. Add the following to your `~/.bashrc` or `~/.zshrc` (or any other)
-to run on every terminal startup:
+2. Add the following to your `~/.bashrc` or `~/.zshrc` (or any other) to run on
+   every terminal startup:
 
 ```sh
 # Mootivator
 sh ~/.mootivator.sh
 ```
 
-You might also want to create a `moo` alias to trigger on demand,
-just add the following to the same rc file.
+You might also want to create a `moo` alias to trigger on demand, just add the
+following to the same rc file.
 
 ```sh
 alias moo="sh ~/.mootivator.sh"
@@ -102,10 +120,12 @@ The mootivator draws from **42 categories** of programming culture, including:
 - 🧪 Testing truths
 - 📚 And many more!
 
-All the prases have been generated using `claude-sonnet-4-5`, around 100 per category, 4939 in total.
+All the prases have been generated using `claude-sonnet-4-5`, around 100 per
+category, 4939 in total.
 
-The prompt workflow included generating first, then rating, and keeping the best ones.
-Instructions of what makes a good humor has also been added to the context.
+The prompt workflow included generating first, then rating, and keeping the best
+ones. Instructions of what makes a good humor has also been added to the
+context.
 
 ## License
 
@@ -113,4 +133,5 @@ See [LICENSE](LICENSE) file for details.
 
 ---
 
-*Remember: There are no bugs, only undocumented features. Now go forth and code!* 🐮
+_Remember: There are no bugs, only undocumented features. Now go forth and
+code!_ 🐮
